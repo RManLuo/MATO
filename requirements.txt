@@ -1,0 +1,15 @@
+# Minimal MATO release dependency list. Pinned to the same major versions used
+# in the experiments reported in the paper. Adjust torch / cuda packages to
+# your hardware as needed.
+transformers>=4.50
+datasets>=4.0
+accelerate>=1.0
+peft>=0.10
+moocore>=0.1.10
+matplotlib>=3.8
+openai>=1.0.0
+anthropic>=0.20.0
+python-dotenv>=1.0
+tqdm
+numpy
+torch

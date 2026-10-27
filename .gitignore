@@ -1,0 +1,23 @@
+# Standard Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.mypy_cache/
+.pytest_cache/
+
+# Local data and experiment outputs
+/data/
+/output/
+
+# Environment
+.env
+.venv/
+venv/
+
+# Editor
+.vscode/
+.idea/
