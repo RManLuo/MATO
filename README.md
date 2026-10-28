@@ -12,7 +12,7 @@
   <a href="https://huggingface.co/docs/transformers/"><img src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face Transformers"></a>
 </p>
 
-[Paper](https://neurips.cc/virtual/2026/loc/sydney/poster/150723) · [Introduction](#introduction) · [Method](#method) · [Installation](#installation) · [Quick Start](#quick-start) · [Experiments](#experiments) · [Configuration](#configuration) · [Outputs](#outputs) · [Citation](#citation)
+[Paper](https://arxiv.org/abs/2605.25342) · [Introduction](#introduction) · [Method](#method) · [Installation](#installation) · [Quick Start](#quick-start) · [Experiments](#experiments) · [Configuration](#configuration) · [Outputs](#outputs) · [Citation](#citation)
 
 </div>
 
